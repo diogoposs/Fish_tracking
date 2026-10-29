@@ -1,0 +1,11 @@
+# Dependências utilizadas pelos scripts; versões não fixadas.
+# Para GPU, instale uma combinação de torch/torchvision compatível com seu CUDA.
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+Pillow
+tqdm
+scikit-image
+
